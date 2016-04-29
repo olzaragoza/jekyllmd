@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "My Jekyll Test Post!"
+date:   2016-04-28 18:22:00 -0400
+categories: jekyll update
+---
+Some filler text to test out the `build process`.
+
+Jekyll also offers powerful support for code snippets:  
+I might try to use this later.
+
+I need to find out how to add and place images.  
+**`Got it!`**
+
+
+A link to my github.io site should follow: [My GitHub.io Page][my-github.io-page]  
+Next should be the published [Jekyllmd link][my-jekyll-site]
+
+Checking to see if standard `HTML code` works for <a href="https://olzaragoza.github.io" target="blank">this link</a>  `It does!!!`
+
+[my-github.io-page]: https://olzaragoza.github.io
+[my-jekyll-site]: https://olzaragoza.github.io/jekyllmd
+
+There should be a big picture under this line.  
+![st augustine](/images/dpitest_0004.jpg "44 Spanish St, St Augustine, FL")
