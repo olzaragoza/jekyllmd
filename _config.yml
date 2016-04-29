@@ -20,3 +20,5 @@ github_username:  olzaragoza
 # Build settings
 markdown: kramdown
 repository: olzaragoza/jekyllmd
+
+exclude: [vendor]
