@@ -1,1 +1,1 @@
-# jekyllmd [![Build Status](https://travis-ci.org/olzaragoza/jekyllmd.svg?branch=pos-gh-pages)](https://travis-ci.org/olzaragoza/jekyllmd)
+# jekyllmd [![Build Status](https://travis-ci.org/olzaragoza/jekyllmd.svg?branch=pos-gh-pages)](https://travis-ci.org/olzaragoza/jekyllmd) [![Build status](https://ci.appveyor.com/api/projects/status/9h226ksjjiq4eveo/branch/pos-gh-pages?svg=true)](https://ci.appveyor.com/project/olzaragoza/jekyllmd/branch/pos-gh-pages)
