@@ -1,0 +1,6 @@
+branches:
+  only:
+    - master
+    - gh-pages
+    - pos-gh-pages
+    - sp3-gh-pages
