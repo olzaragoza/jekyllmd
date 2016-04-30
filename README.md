@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# jekyllmd [![Build Status](https://travis-ci.org/olzaragoza/jekyllmd.svg?branch=pos-gh-pages)](https://travis-ci.org/olzaragoza/jekyllmd)
-=======
-# jekyllmd [![Build Status](https://travis-ci.org/olzaragoza/jekyllmd.svg?branch=gh-pages)](https://travis-ci.org/olzaragoza/jekyllmd)
->>>>>>> gh-pages
+# jekyllmd [![Build Status](https://travis-ci.org/olzaragoza/jekyllmd.svg?branch=gh-pages)](https://travis-ci.org/olzaragoza/jekyllmd) ![Build Status](https://ci.appveyor.com/api/projects/status/github/olzaragoza/jekyllmd?branch=master&svg=true)
