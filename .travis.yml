@@ -13,7 +13,7 @@ php:
 # the `install` step will run `bundle install` by default.
 #script: ./script/cibuild
 
-script: phpunit --coverage-clover=coverage.clover
+script: phpunit --coverage-clover=coverage.clover coverage-checker.php
 
 after_script:
     - wget https://scrutinizer-ci.com/ocular.phar
