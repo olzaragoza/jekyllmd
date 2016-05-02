@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 paginator.per_page: 2
+permalink: /blog/
 ---
 
 <div class="home">
